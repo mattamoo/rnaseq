@@ -1,0 +1,58 @@
+"ID","Description","NES_MCF7","NES_T47D"
+"GO:0000280","nuclear division",-2.6316275320886,-2.24042332201328
+"GO:0001763","morphogenesis of a branching structure",1.86532870163552,1.77924003454622
+"GO:0006261","DNA-templated DNA replication",-2.80923440587819,-2.41989653575705
+"GO:0006275","regulation of DNA replication",-2.28882994040062,-1.93173332194367
+"GO:0006935","chemotaxis",1.52236823609401,1.46414069376111
+"GO:0006997","nucleus organization",-1.53444560209557,-1.68741656694793
+"GO:0007015","actin filament organization",1.36747095936029,1.68343594418703
+"GO:0007059","chromosome segregation",-2.77108006810128,-2.3134824153094
+"GO:0007162","negative regulation of cell adhesion",1.95101530308609,1.60473795174061
+"GO:0007416","synapse assembly",1.74670778940971,1.47954208605036
+"GO:0007517","muscle organ development",1.73550069595764,1.66278012364325
+"GO:0007611","learning or memory",1.86346195664667,1.51397529403686
+"GO:0010212","response to ionizing radiation",-1.67890969331385,-1.62805955112378
+"GO:0010810","regulation of cell-substrate adhesion",1.42924273860819,1.59911515488553
+"GO:0010817","regulation of hormone levels",1.62582170944503,1.41282425931136
+"GO:0016055","Wnt signaling pathway",1.60457161999602,1.60397395520638
+"GO:0023061","signal release",1.58258501553278,1.36731146139842
+"GO:0030261","chromosome condensation",-2.04342124421227,-1.85424865769316
+"GO:0031055","chromatin remodeling at centromere",-2.08307851571477,-1.88315740769552
+"GO:0032886","regulation of microtubule-based process",-1.75776275173936,-1.52424353416996
+"GO:0033555","multicellular organismal response to stress",1.73270678460838,1.7228444429389
+"GO:0034080","CENP-A containing chromatin assembly",-2.08307851571477,-1.88315740769552
+"GO:0034329","cell junction assembly",1.54243348491694,1.51641501014237
+"GO:0034502","protein localization to chromosome",-1.99492265623318,-1.69617716296402
+"GO:0034508","centromere complex assembly",-2.33012312859535,-1.95937642948222
+"GO:0040008","regulation of growth",1.37074248529383,1.35399520930224
+"GO:0040013","negative regulation of locomotion",1.85117273765377,1.73862168019787
+"GO:0040017","positive regulation of locomotion",1.72928989652027,1.44302792175066
+"GO:0042391","regulation of membrane potential",1.45718502727323,1.62329894133266
+"GO:0042770","signal transduction in response to DNA damage",-1.76371115214875,-1.60717484484951
+"GO:0044057","regulation of system process",1.5784672387365,1.50432838374035
+"GO:0044283","small molecule biosynthetic process",-1.42121768190409,-1.51942224262238
+"GO:0045165","cell fate commitment",2.07701042789992,1.5143819938459
+"GO:0045596","negative regulation of cell differentiation",1.72658137688933,1.36080031521999
+"GO:0048598","embryonic morphogenesis",1.55586520176854,1.51595824547858
+"GO:0048729","tissue morphogenesis",1.84276958093866,1.70132820405219
+"GO:0048812","neuron projection morphogenesis",1.91891646345186,1.6562542443717
+"GO:0050000","chromosome localization",-2.4962092001164,-2.05465413421327
+"GO:0050673","epithelial cell proliferation",1.91784718078308,1.38980390884263
+"GO:0050678","regulation of epithelial cell proliferation",1.93286632888345,1.44144634595635
+"GO:0050767","regulation of neurogenesis",1.76588004726635,1.54493950730258
+"GO:0050803","regulation of synapse structure or activity",1.75527339978185,1.60831308550333
+"GO:0050807","regulation of synapse organization",1.69742030160863,1.54698763486503
+"GO:0050808","synapse organization",1.69478388948316,1.58917805758989
+"GO:0051052","regulation of DNA metabolic process",-1.98818467524336,-1.66297966849373
+"GO:0051960","regulation of nervous system development",1.81475025736352,1.62285383958481
+"GO:0060537","muscle tissue development",1.90343939306535,1.62931589549415
+"GO:0061061","muscle structure development",1.66107991165265,1.54104603615385
+"GO:0070252","actin-mediated cell contraction",1.65971238291032,1.9071230104253
+"GO:0071772","response to BMP",2.02611262926967,1.87550815947512
+"GO:0090066","regulation of anatomical structure size",1.44070172873423,1.44183194990466
+"GO:0090287","regulation of cellular response to growth factor stimulus",1.80823485764476,1.93649250633225
+"GO:0120035","regulation of plasma membrane bounded cell projection organization",1.53447495893852,1.38618559870819
+"GO:0140694","membraneless organelle assembly",-1.95831824005519,-1.6343477176438
+"GO:0141091","transforming growth factor beta receptor superfamily signaling pathway",1.77465056185569,1.80502559816914
+"GO:1904645","response to amyloid-beta",2.17580731101699,1.70607768931466
+"GO:2000147","positive regulation of cell motility",1.69631027825463,1.4532389324621
